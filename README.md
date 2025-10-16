@@ -15,8 +15,8 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 ### Informations sur le dépôt
 
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git) 
-![GitHub forks](https://img.shields.io/github/forks/boudjelaba/template-depot-git)
+[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/Lounadav/template-depot-git-Louna-LEBOT--DAVOUST) 
+![GitHub forks](https://img.shields.io/github/forks/Lounadav/template-depot-git-Louna-LEBOT--DAVOUST)
 ![GitHub watchers](https://img.shields.io/github/watchers/boudjelaba/template-depot-git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
