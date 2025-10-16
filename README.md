@@ -45,6 +45,7 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-yellow?logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
